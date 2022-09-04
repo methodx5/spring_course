@@ -1,9 +1,9 @@
-package spring_introduction;
+package com.javadev.spring_introduction;
 
 public class Dog implements Pet {
 
     @Override
     public void say (){
-        System.out.println("Bow-Wow");
+        System.out.println("Bow-Wow!");
     }
 }

@@ -1,4 +1,4 @@
-package spring_introduction;
+package com.javadev.spring_introduction;
 
 public class Test1 {
 

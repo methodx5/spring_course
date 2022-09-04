@@ -1,4 +1,4 @@
-package spring_introduction;
+package com.javadev.spring_introduction;
 
 public interface Pet  {
     public void say();
