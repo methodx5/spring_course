@@ -7,9 +7,6 @@
     <list default="true" id="c16c48db-d4c4-49d5-a082-8efe270fec59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +56,7 @@
       <recent name="D:\Projects\spring_course\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test6">
+  <component name="RunManager" selected="Application.Test1">
     <configuration name="ConfigWithAnnotations1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javadev.spring_introduction.ConfigWithAnnotations1" />
       <module name="spring_course" />
@@ -86,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javadev.spring_introduction.Test4" />
+    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javadev.aop.Test1" />
       <module name="spring_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javadev.spring_introduction.*" />
+          <option name="PATTERN" value="com.javadev.aop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Test6" />
         <item itemvalue="Application.ScopeTest" />
         <item itemvalue="Application.ConfigWithAnnotations1" />
         <item itemvalue="Application.Test5" />
-        <item itemvalue="Application.Test4" />
       </list>
     </recent_temporary>
   </component>
@@ -144,7 +141,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662321857678</updated>
       <workItem from="1662321859507" duration="5556000" />
-      <workItem from="1662378874624" duration="18729000" />
+      <workItem from="1662378874624" duration="20573000" />
     </task>
     <servers />
   </component>
