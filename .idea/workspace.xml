@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c16c48db-d4c4-49d5-a082-8efe270fec59" name="Changes" comment="" />
+    <list default="true" id="c16c48db-d4c4-49d5-a082-8efe270fec59" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/applicationContext.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Test3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,10 +46,12 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "configurable.group.editor"
+    "settings.editor.selected.configurable": "configurable.group.editor",
+    "spring.configuration.checksum": "9b53fb1ff443d8dbf0d085479fc14677"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Test3">
@@ -101,7 +110,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1662321857678</updated>
-      <workItem from="1662321859507" duration="4432000" />
+      <workItem from="1662321859507" duration="5556000" />
+      <workItem from="1662378874624" duration="4264000" />
     </task>
     <servers />
   </component>
