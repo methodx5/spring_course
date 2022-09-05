@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="c16c48db-d4c4-49d5-a082-8efe270fec59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Cat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Dog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/spring_introduction/Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +47,9 @@
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "D:/Projects/spring_course/resources",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "configurable.group.editor",
     "spring.configuration.checksum": "9b53fb1ff443d8dbf0d085479fc14677"
   }
@@ -56,22 +59,9 @@
       <recent name="D:\Projects\spring_course\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test5">
-    <configuration name="Test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="spring_introduction.Test1" />
-      <module name="spring_course" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="spring_introduction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javadev.spring_introduction.Test2" />
+  <component name="RunManager" selected="Application.Test6">
+    <configuration name="ConfigWithAnnotations1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javadev.spring_introduction.ConfigWithAnnotations1" />
       <module name="spring_course" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javadev.spring_introduction.Test3" />
+    <configuration name="ScopeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javadev.spring_introduction.ScopeTest" />
       <module name="spring_course" />
       <extension name="coverage">
         <pattern>
@@ -122,13 +112,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javadev.spring_introduction.Test6" />
+      <module name="spring_course" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javadev.spring_introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test6" />
+        <item itemvalue="Application.ScopeTest" />
+        <item itemvalue="Application.ConfigWithAnnotations1" />
         <item itemvalue="Application.Test5" />
         <item itemvalue="Application.Test4" />
-        <item itemvalue="Application.Test3" />
-        <item itemvalue="Application.Test2" />
-        <item itemvalue="Application.Test1" />
       </list>
     </recent_temporary>
   </component>
@@ -141,7 +144,7 @@
       <option name="presentableId" value="Default" />
       <updated>1662321857678</updated>
       <workItem from="1662321859507" duration="5556000" />
-      <workItem from="1662378874624" duration="9570000" />
+      <workItem from="1662378874624" duration="18729000" />
     </task>
     <servers />
   </component>
