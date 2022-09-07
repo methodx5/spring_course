@@ -15,7 +15,7 @@ import org.springframework.stereotype.Component;
 public class LoggingAspect {
 
 
-    @Before("com.javadev.aop.aspects.MyPointCuts.allAddMethods()")
+   @Before("com.javadev.aop.aspects.MyPointCuts.allAddMethods()")
     public void beforeAddLoggingAdvice(JoinPoint joinPoint) {
 
         MethodSignature methodSignature = (MethodSignature) joinPoint.getSignature();

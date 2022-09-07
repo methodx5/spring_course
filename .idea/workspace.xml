@@ -6,13 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c16c48db-d4c4-49d5-a082-8efe270fec59" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/aop/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/aop/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/aop/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/aop/Test1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/aop/UniLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/aop/UniLibrary.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/aop/aspects/ExceptionHandlingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/aop/aspects/ExceptionHandlingAspect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/aop/aspects/LoggingAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/aop/aspects/LoggingAspect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/aop/aspects/MyPointCuts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/aop/aspects/MyPointCuts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javadev/aop/aspects/SecurityAspect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javadev/aop/aspects/SecurityAspect.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +57,7 @@
       <recent name="D:\Projects\spring_course\resources" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test1">
+  <component name="RunManager" selected="Application.Test2">
     <configuration name="ConfigWithAnnotations1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.javadev.spring_introduction.ConfigWithAnnotations1" />
       <module name="spring_course" />
@@ -102,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.javadev.spring_introduction.Test5" />
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javadev.aop.Test2" />
       <module name="spring_course" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javadev.spring_introduction.*" />
+          <option name="PATTERN" value="com.javadev.aop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test2" />
         <item itemvalue="Application.Test1" />
         <item itemvalue="Application.Test6" />
         <item itemvalue="Application.ScopeTest" />
         <item itemvalue="Application.ConfigWithAnnotations1" />
-        <item itemvalue="Application.Test5" />
       </list>
     </recent_temporary>
   </component>
@@ -148,7 +143,8 @@
       <updated>1662321857678</updated>
       <workItem from="1662321859507" duration="5556000" />
       <workItem from="1662378874624" duration="21489000" />
-      <workItem from="1662475939870" duration="13586000" />
+      <workItem from="1662475939870" duration="13713000" />
+      <workItem from="1662537047750" duration="3327000" />
     </task>
     <servers />
   </component>
