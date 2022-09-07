@@ -2,6 +2,7 @@ package com.javadev.aop;
 
 import org.springframework.stereotype.Component;
 
+import java.sql.SQLOutput;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -20,8 +21,14 @@ public class University {
     }
 
     public List<Student> getStudents(){
+        System.out.println("Начало работы метода getStudents");
+        //  System.out.println(students.get(3));
         System.out.println("Information from method getStudents:");
         System.out.println(students);
         return students;
+    }
+
+    public static void main(String[] args) {
+        System.out.println();
     }
 }
